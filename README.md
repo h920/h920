@@ -16,4 +16,4 @@ h920
 about
 =====
 
-hitzkとphaleによって開発されました
+hitzkとpsudockyによって開発されました
